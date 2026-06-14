@@ -1,0 +1,22 @@
+POST PROCESSING LOG FILE FOR: Tuolumne@120
+DATA COLLECTION YEAR: 2023
+LOG CREATED: 03/02/2024
+
+
+
+RAW SOLINST META DATA
+
+
+Serial_number:
+2017487
+Project ID:
+Hydroclimate
+Location:
+TiogaRoadat120
+LEVEL
+UNIT: cm
+Offset: 0.000000 cm
+TEMPERATURE
+UNIT: °C
+Date,Time,ms,LEVEL,TEMPERATURE
+

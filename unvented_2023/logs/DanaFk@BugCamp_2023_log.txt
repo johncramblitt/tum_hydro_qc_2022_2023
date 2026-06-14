@@ -1,0 +1,22 @@
+POST PROCESSING LOG FILE FOR: DanaFk@BugCamp
+DATA COLLECTION YEAR: 2023
+LOG CREATED: 03/02/2024
+
+
+
+RAW SOLINST META DATA
+
+
+Serial_number:
+2042764
+Project ID:
+DanaFrkBugCamp
+Location:
+DanaFrkBugCamp
+LEVEL
+UNIT: cm
+Offset: 0.000000 cm
+TEMPERATURE
+UNIT: °C
+Date,Time,ms,LEVEL,TEMPERATURE
+
